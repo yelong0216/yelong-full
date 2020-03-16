@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.yelong.spring.boot.ssm.autoconfigure.MyBatisParamInterceptorAutoConfiguration,\
+org.yelong.spring.boot.ssm.autoconfigure.MyBatisParamInterceptorByPageHelperAutoConfiguration,\
+org.yelong.spring.boot.ssm.autoconfigure.ModelResultInterceptorAutoConfiguration,\
+org.yelong.spring.boot.ssm.autoconfigure.SsmMultiDataSourceAutoConfiguration,\
+org.yelong.spring.boot.ssm.autoconfigure.SsmSingleDataSourceAutoConfiguration
